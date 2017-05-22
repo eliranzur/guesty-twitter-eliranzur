@@ -1,0 +1,17 @@
+{
+  "name": "twitter",
+  "version": "1.0.0",
+  "description": "exports twits and save to csv",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "EliranZ",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.5.0",
+    "moment": "^2.18.1",
+    "string": "^3.3.3",
+    "twit": "^2.2.5"
+  }
+}
