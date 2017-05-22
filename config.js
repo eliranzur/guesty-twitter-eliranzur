@@ -1,3 +1,7 @@
+/**
+* copy your twitter keys here
+*/
+
 module.exports = {
   consumer_key: '',  
   consumer_secret: '',
